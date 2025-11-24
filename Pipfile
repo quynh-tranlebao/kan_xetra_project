@@ -10,6 +10,10 @@ jupyter = "*"
 boto3 = "*"
 polars = "*"
 pyarrow = "*"
+pyyaml = "*"
+pylint = "*"
+moto = "*"
+coverage = "*"
 
 [dev-packages]
 
